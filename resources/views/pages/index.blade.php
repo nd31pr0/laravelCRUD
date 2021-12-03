@@ -8,7 +8,7 @@
 
     </head>
     <body class="antialiased">
-        <h1>Welcome To Laravel</h1>
-        <p>This is an application geared at Laravel CRUD functionality</p>
+        <h1>Index Page</h1>
+        <p>This is the index page of this awesome application.</p>
     </body>
 </html>
