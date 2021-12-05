@@ -1,6 +1,6 @@
 @extends('Layouts.app')
 
 @section('content')
-    <h1>{{ $title }}</h1>
+    <h1>About Us</h1>
     <p>This is the about page.</p>
 @endsection
